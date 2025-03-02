@@ -6,6 +6,9 @@ Inspired by the functionality of Termius, manssh provides a user-friendly interf
 ## 🚧 ***UNDER CONSTRUCTION*** 🚧
 This project is in a very early stage of development and is not yet ready for use. Please check back later for updates.
 
+## Screenshots
+![](./screenshots/home.png)
+
 ## Features
 
 - 🚧 **Server Management**: Easily add, edit, and delete server configurations.
