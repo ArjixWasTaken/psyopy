@@ -18,6 +18,9 @@ This project is in a very early stage of development and is not yet ready for us
 - 🚧 **Team Collaboration**: Share your server configurations with teammates to enhance collaboration.
 - 🚧 **Cross-Platform Support**: Available on multiple platforms, including Windows, macOS, and Linux.
 
+## Contributing
+Please take a look at the [project's kanban board](https://github.com/users/ArjixWasTaken/projects/3), to see what is being worked on, and what you can help do.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
