@@ -52,7 +52,7 @@ const Sidebar: React.FC<SidebarProps> = ({
       {/* App title */}
       <div className="p-4 border-b border-gray-700 flex items-center">
         <Server className="h-6 w-6 mr-2 text-blue-400" />
-        <h1 className="text-xl font-bold">SSH Manager</h1>
+        <h1 className="text-xl font-bold">Psyopy</h1>
       </div>
       
       {/* Search */}

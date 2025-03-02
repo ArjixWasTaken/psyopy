@@ -24,7 +24,7 @@ export const useTerminal = (activeConnection: SSHConnection | null, activeTabId:
     
     if (!terminalOutputs.has(activeTabId)) {
       const initialOutput = [
-        'Welcome to SSH Manager Terminal',
+        'Welcome to Psyopy Terminal',
         '$ '
       ];
       terminalOutputs.set(activeTabId, initialOutput);
